@@ -1,10 +1,10 @@
 ---
 layout: post
 title: You're up and running!
+published: true
 ---
+Hello!
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+My name is José Maia. I'm a software developer from the north of Portugal, deeply passionate about a bunch of things, such as pro wrestling, video games, history and DevOps.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+I setup this blog so I'd have a place to post about interesting things that happen to me during the working week that I can share with other people, as well as random thoughts and reviews of media.
