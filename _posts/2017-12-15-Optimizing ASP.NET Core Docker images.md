@@ -20,3 +20,7 @@ This makes for huge savings in space (and, directly, time). In my quick experime
 - Using the [Microsoft.Packaging.Tools.Trimming](https://www.nuget.org/packages/Microsoft.Packaging.Tools.Trimming/1.1.0-preview1-25818-01) library to cut some more size off. It sounds [really good](https://github.com/dotnet/standard/blob/release/2.0.0/Microsoft.Packaging.Tools.Trimming/docs/trimming.md), but the fact that it's still in pre-release worries me a bit. We'll see.
 
 - Creating my own base image that inherits from aspnetcore and fills the runtime store with some more packages that may be common to all my images (Newtonsoft.Json is always going to be there, and that's another few megabytes we can save!). This would probably have to have a dedicated build step before the rest of my build, to ensure I keep up with the minor updates Microsoft publishes to its aspnetcore version.
+
+### References / Read More
+
+- https://andrewlock.net/the-microsoft-aspnetcore-all-metapackage-is-huge-and-thats-awesome-thanks-to-the-net-core-runtime-store-2/
