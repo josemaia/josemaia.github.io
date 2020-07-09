@@ -4,7 +4,7 @@ title: 'Do the Impossible'
 published: true
 ---
 
-## Do the Impossible
+## Better things aren't possible
 
 *"The prison is one of the most important features of our image environment. This has caused us to take the existence of prisons for granted. The prison has become a key ingredient of our common sense. It is there, all around us. We do not question whether it should exist. It has become so much a part of our lives that it requires a great feat of the imagination to envision life beyond the prison." - Angela Davis (Are Prisons Obsolete?)*
 
