@@ -2,7 +2,7 @@
 layout: post
 title: 'Fiambre Assado c/Mel | Roasted Ham w/ Honey'
 published: true
-image: assets/img/recipes-default.jpg
+image: recipes-default.jpg
 categories: recipes
 tags: ["pt-pt"]
 ---

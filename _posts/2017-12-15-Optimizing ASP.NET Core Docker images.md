@@ -3,7 +3,7 @@ layout: post
 title: 'Optimizing ASP.NET Core Docker images'
 published: true
 categories: work
-image: assets/img/work-default.jpg
+image: work-default.jpg
 tags: ["csharp", "asp.net", "docker", "en-us"]
 ---
 

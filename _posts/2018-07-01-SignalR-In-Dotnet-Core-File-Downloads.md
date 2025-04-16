@@ -3,7 +3,7 @@ layout: post
 title: 'SignalR in .NET Core - File Downloads'
 published: true
 categories: work
-image: assets/img/work-default.jpg
+image: work-default.jpg
 tags: ["csharp", "dotnet", "en-us"]
 ---
 This is just a small example of how to use the new [SignalR](https://github.com/aspnet/signalr) version distributed with .NET Core from 2.1 onwards in order to perform a file download between a client and a server. 

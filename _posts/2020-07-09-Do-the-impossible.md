@@ -4,7 +4,7 @@ title: 'Do the Impossible'
 published: true
 tags: ["en-us"]
 categories: nonwork
-image: assets/img/nonwork-default.jpg
+image: nonwork-default.jpg
 ---
 
 ## Better things aren't possible
@@ -15,7 +15,7 @@ image: assets/img/nonwork-default.jpg
 
 There's a thought that's been biting away at my brain ever since I read Are Prisons Obsolete (well, there are a lot of them, but I'm just talking about one this time), and it got dislodged today after a work meeting. It's that we do not ***question things*** nearly as often as we should. We take the current state of things for the state of things as they always were, and as always will be.
 
-![Better things aren't possible](../assets/img/centrism.png)
+![Better things aren't possible](../centrism.png)
 
 There are multiple things my team does at work that are seen as unusual by colleagues. Most of them are agile methodology related, because we are essentially fully self-organized. This self-organization arose partly as a response to our material reality: our manager is busy and can't take care of the backlog, so we will. Others happened gradually as the team grew in size and familiarity with each other. Ultimately they're all things that are not particularly complex, such as the aforementioned backlog management or everyone sharing responsibility for scrum events.
 
