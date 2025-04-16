@@ -4,6 +4,7 @@ title: 'Do the Impossible'
 published: true
 tags: ["en-us"]
 categories: nonwork
+image: assets/img/nonwork-default.jpg
 ---
 
 ## Better things aren't possible
