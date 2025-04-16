@@ -1,0 +1,11 @@
+<div class="post-share">
+  [
+  {% for tag in page.tags %}
+  {% capture tag_name %}{{ tag }}{% endcapture %}
+  <span class="fa fa-tag" aria-hidden="true"></span>
+  <a href="/tag/{{ tag_name }}">
+    <nobr>{{ tag_name }}</nobr></code>&nbsp;
+  </a>
+  {% endfor %}
+  ]
+</div>
