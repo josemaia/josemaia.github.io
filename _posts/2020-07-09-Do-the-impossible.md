@@ -2,6 +2,8 @@
 layout: post
 title: 'Do the Impossible'
 published: true
+tags: ["en-us"]
+categories: nonwork
 ---
 
 ## Better things aren't possible

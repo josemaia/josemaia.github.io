@@ -2,6 +2,8 @@
 layout: post
 title: 'Optimizing ASP.NET Core Docker images'
 published: true
+categories: work
+tags: ["csharp", "asp.net", "docker", "en-us"]
 ---
 
 With ASP.NET Core 2.0, Microsoft included a new NuGet Package to manage your projects' dependencies on the ASP.NET Core framework, the [Microsoft.AspNetCore.All](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/metapackage) metapackage.
