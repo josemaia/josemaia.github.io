@@ -12,3 +12,5 @@ My CV is available here:
 [Portuguese](/assets/files/cv_josemaia_pt.pdf)
 
 More details are on my LinkedIn page, available via the bottom bar. Feel free to send a connection request there, or drop me an email!
+
+{% include archive.html %}
