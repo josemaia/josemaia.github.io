@@ -2,7 +2,7 @@
 layout: post
 title: 'Bôla de Carne D. Lídia | D. Lídia Meat Bread'
 published: true
-image: bola-wip.jpg
+image: 2025-04/bola-wip.png
 categories: recipes
 tags: ["portugues"]
 ---
@@ -27,7 +27,7 @@ tags: ["portugues"]
 
 Pode-se escalar a receita à quantidade necessária, alimenta quantos forem precisos. Pode ser cozinhada numa forma redonda ou mais quadrada / rectangular. Redonda fica assim:
 
-![Eu sei que a imagem é pequena, ok?](../bola-cozinhada.png)
+![Eu sei que a imagem é pequena, ok?](/assets/img/2025-04/bola-cozinhada.png)
 
 # English
 TBD

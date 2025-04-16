@@ -2,7 +2,7 @@
 layout: post
 title: 'Fiambre Assado c/Mel | Roasted Ham w/ Honey'
 published: true
-image: recipes-default.jpg
+image: 2025-04/fiambre.png
 categories: recipes
 tags: ["portugues"]
 ---
