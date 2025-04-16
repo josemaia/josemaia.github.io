@@ -14,7 +14,7 @@ tags: ["portugues"]
 - 100 g de margarina (derretida, se necessário)
 - 1 saqueta fermento de padeiro (normalmente 11g, marca Fermipan)
 - 4 ovos
-- carne a gosto (presunto, fiambre, linguiça, bacon, etc.)
+- approx. 400g de carne a gosto (presunto, fiambre, linguiça, bacon, etc.)
 
 ## Instruções
 1. Mistura-se a farinha com o leite
