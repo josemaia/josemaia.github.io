@@ -2,7 +2,7 @@
 layout: post
 title: 'Do the Impossible'
 published: true
-tags: ["en-us"]
+tags: ["english"]
 categories: nonwork
 image: nonwork-default.jpg
 ---

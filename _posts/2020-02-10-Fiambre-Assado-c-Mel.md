@@ -4,7 +4,7 @@ title: 'Fiambre Assado c/Mel | Roasted Ham w/ Honey'
 published: true
 image: recipes-default.jpg
 categories: recipes
-tags: ["pt-pt"]
+tags: ["portugues"]
 ---
 
 # Portuguese

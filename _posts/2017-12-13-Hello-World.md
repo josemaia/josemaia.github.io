@@ -2,7 +2,7 @@
 layout: post
 title: 'Hello, World!'
 published: true
-tags: ["en-us"]
+tags: ["english"]
 ---
 Hello!
 
